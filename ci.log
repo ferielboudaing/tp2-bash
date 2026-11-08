@@ -1,0 +1,6 @@
+[2026-11-08 21:58:58] === Debut du pipeline ===
+[2026-11-08 21:58:58] Clonage de https://github.com/ferielboudaing/tp2-bash
+[2026-11-08 21:58:59] TEST OK : syntaxe de bachup.sh
+[2026-11-08 21:58:59] TEST OK : syntaxe de check_disk.sh
+[2026-11-08 21:58:59] TEST OK : syntaxe de script.sh
+[2026-11-08 21:58:59] === Pipeline reussi ===
